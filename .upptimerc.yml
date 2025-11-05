@@ -10,7 +10,66 @@ sites:
   - name: sosdocs prod
     url: https://sosdocs.hml.smartdocs.com.br/
   - name: sosdocs portal prod
-    url: https://sosdocs.hml.smartdocs.com.br/
+    url: https://portal-sosdocs.smartdocs.com.br/
+    
+  - name: senacdf hml
+    url: https://senacdf.hml.smartdocs.com.br/
+  - name: senacdf portal hml
+    url: https://portal-senacdf.hml.smartdocs.com.br/
+  - name: senacdf prod
+    url: https://senacdf.smartdocs.com.br/
+  - name: senacdf portal prod
+    url: https://portal-senacdf.smartdocs.com.br/
+    
+  - name: sescsenacgo hml
+    url: http://sescsenacgo.hml.smartdocs.com.br/
+  - name: sescsenacgo portal hml
+    url: http://portal-sescsenacgo.hml.smartdocs.com.br/
+  - name: sescsenacgo prod
+    url: https://sescsenacgo.smartdocs.com.br/
+  - name: sescsenacgo portal prod
+    url: http://portal-sescsenacgo.smartdocs.com.br/
+    
+  - name: sesi hml
+    url: https://sesi.hml.smartdocs.com.br/
+  - name: sesi portal hml
+    url: https://portal-sesi.hml.smartdocs.com.br/
+  - name: sesi prod
+    url: https://sesi.smartdocs.com.br/
+  - name: sesi portal prod
+    url: https://portal-sesi.smartdocs.com.br/
+
+  - name: sebrae-mg hml
+    url: https://sebrae-mg.hml.smartdocs.com.br/
+  - name: sebrae-mg portal hml
+    url: https://portal-sebraemg.hml.smartdocs.com.br/
+  - name: sebrae-mg prod
+    url: https://sebrae-mg.smartdocs.com.br/
+  - name: sebrae-mg portal prod
+    url: https://portal-sebraemg.smartdocs.com.br/
+
+  - name: emgea hml
+    url: https://emgea.hml.smartdocs.com.br/
+  - name: emgea prod
+    url: https://emgea.smartdocs.com.br/
+  - name: emgea portal prod
+    url: https://portal-emgea.smartdocs.com.br/
+
+  - name: camara-maceio hml
+    url: https://camara-maceio.hml.smartdocs.com.br/
+  - name: camara-maceio portal hml
+    url: https://portal-cmm.hml.smartdocs.com.br/
+  - name: camara-maceio prod
+    url: https://camara-maceio.smartdocs.com.br/
+  - name: camara-maceio portal prod
+    url: https://portal-maceio.smartdocs.com.br/
+
+  - name: sedsgo hml
+    url: https://sedsgo.hml.smartdocs.com.br/
+  - name: sedsgo prod
+    url: https://sedsgo.smartdocs.com.br/
+  - name: sedsgo portal prod
+    url: https://portal-sedsgo.smartdocs.com.br/
   
 
 status-website:
@@ -19,9 +78,7 @@ status-website:
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Upptime Smartdocs
   navbar:
     - title: Status
       href: /
