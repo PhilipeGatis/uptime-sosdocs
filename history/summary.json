@@ -202,18 +202,20 @@
     "url": "http://portal-sescsenacgo.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portal-sescsenacgo.smartdocs.com.br.ico",
     "slug": "sescsenacgo-portal-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1032,
-    "timeDay": 976,
-    "timeWeek": 1016,
-    "timeMonth": 1032,
-    "timeYear": 1032,
-    "dailyMinutesDown": {}
+    "time": 1033,
+    "timeDay": 997,
+    "timeWeek": 1020,
+    "timeMonth": 1033,
+    "timeYear": 1033,
+    "dailyMinutesDown": {
+      "2025-11-13": 0
+    }
   },
   {
     "name": "sesi hml",
