@@ -202,17 +202,17 @@
     "url": "http://portal-sescsenacgo.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portal-sescsenacgo.smartdocs.com.br.ico",
     "slug": "sescsenacgo-portal-prod",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 1157,
-    "timeDay": 1399,
-    "timeWeek": 1201,
-    "timeMonth": 1157,
-    "timeYear": 1157,
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 1145,
+    "timeDay": 1325,
+    "timeWeek": 1180,
+    "timeMonth": 1145,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-11-13": 50
     }
@@ -528,17 +528,19 @@
     "url": "https://portal-sedsgo.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portal-sedsgo.smartdocs.com.br.ico",
     "slug": "sedsgo-portal-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 2579,
-    "timeWeek": 1493,
-    "timeMonth": 1189,
-    "timeYear": 1189,
-    "dailyMinutesDown": {}
+    "time": 1151,
+    "timeDay": 2240,
+    "timeWeek": 1414,
+    "timeMonth": 1151,
+    "timeYear": 1151,
+    "dailyMinutesDown": {
+      "2025-11-13": 0
+    }
   }
 ]
