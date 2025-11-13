@@ -202,19 +202,19 @@
     "url": "http://portal-sescsenacgo.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/portal-sescsenacgo.smartdocs.com.br.ico",
     "slug": "sescsenacgo-portal-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1033,
-    "timeDay": 997,
-    "timeWeek": 1020,
-    "timeMonth": 1033,
-    "timeYear": 1033,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 1157,
+    "timeDay": 1399,
+    "timeWeek": 1201,
+    "timeMonth": 1157,
+    "timeYear": 1157,
     "dailyMinutesDown": {
-      "2025-11-13": 0
+      "2025-11-13": 50
     }
   },
   {
