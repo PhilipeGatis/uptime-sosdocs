@@ -336,19 +336,19 @@
     "url": "https://sebrae-mg.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sebrae-mg.smartdocs.com.br.ico",
     "slug": "sebrae-mg-prod",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 677,
-    "timeWeek": 658,
-    "timeMonth": 639,
-    "timeYear": 639,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 631,
+    "timeDay": 613,
+    "timeWeek": 639,
+    "timeMonth": 631,
+    "timeYear": 631,
     "dailyMinutesDown": {
-      "2025-11-19": 0
+      "2025-11-19": 16
     }
   },
   {
