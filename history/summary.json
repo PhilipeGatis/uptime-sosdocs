@@ -116,10 +116,10 @@
     "url": "https://senacdf.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/senacdf.smartdocs.com.br.ico",
     "slug": "senacdf-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 800,
@@ -127,7 +127,9 @@
     "timeWeek": 722,
     "timeMonth": 800,
     "timeYear": 800,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-21": 1
+    }
   },
   {
     "name": "senacdf portal prod",
@@ -135,13 +137,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-senacdf.smartdocs.com.br.ico",
     "slug": "senacdf-portal-prod",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "98.68%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 792,
-    "timeDay": 722,
+    "timeDay": 873,
     "timeWeek": 750,
     "timeMonth": 792,
     "timeYear": 792,
@@ -190,10 +192,10 @@
     "url": "https://sescsenacgo.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sescsenacgo.smartdocs.com.br.ico",
     "slug": "sescsenacgo-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 703,
@@ -201,7 +203,9 @@
     "timeWeek": 633,
     "timeMonth": 703,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-21": 1
+    }
   },
   {
     "name": "sescsenacgo portal prod",
@@ -209,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-sescsenacgo.smartdocs.com.br.ico",
     "slug": "sescsenacgo-portal-prod",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.71%",
     "time": 1087,
     "timeDay": 1080,
     "timeWeek": 938,
@@ -264,18 +268,20 @@
     "url": "https://sesi.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sesi.smartdocs.com.br.ico",
     "slug": "sesi-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 665,
-    "timeWeek": 655,
-    "timeMonth": 677,
-    "timeYear": 677,
-    "dailyMinutesDown": {}
+    "time": 772,
+    "timeDay": 1664,
+    "timeWeek": 906,
+    "timeMonth": 772,
+    "timeYear": 772,
+    "dailyMinutesDown": {
+      "2025-11-21": 0
+    }
   },
   {
     "name": "sesi portal prod",
@@ -338,10 +344,10 @@
     "url": "https://sebrae-mg.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sebrae-mg.smartdocs.com.br.ico",
     "slug": "sebrae-mg-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 640,
@@ -350,6 +356,7 @@
     "timeMonth": 640,
     "timeYear": 640,
     "dailyMinutesDown": {
+      "2025-11-21": 0,
       "2025-11-19": 16
     }
   },
@@ -394,9 +401,9 @@
     "url": "https://emgea.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/emgea.smartdocs.com.br.ico",
     "slug": "emgea-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -405,7 +412,9 @@
     "timeWeek": 537,
     "timeMonth": 579,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-21": 0
+    }
   },
   {
     "name": "emgea portal prod",
@@ -468,9 +477,9 @@
     "url": "https://camara-maceio.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/camara-maceio.smartdocs.com.br.ico",
     "slug": "camara-maceio-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -479,7 +488,9 @@
     "timeWeek": 561,
     "timeMonth": 556,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-21": 0
+    }
   },
   {
     "name": "camara-maceio portal prod",
@@ -522,9 +533,9 @@
     "url": "https://sedsgo.smartdocs.com.br/",
     "icon": "https://icons.duckduckgo.com/ip3/sedsgo.smartdocs.com.br.ico",
     "slug": "sedsgo-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -533,7 +544,9 @@
     "timeWeek": 562,
     "timeMonth": 557,
     "timeYear": 557,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-21": 0
+    }
   },
   {
     "name": "sedsgo portal prod",
