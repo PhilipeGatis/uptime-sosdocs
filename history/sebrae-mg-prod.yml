@@ -1,7 +1,7 @@
 url: https://sebrae-mg.smartdocs.com.br/
-status: up
-code: 200
-responseTime: 497
-lastUpdated: 2025-11-26T23:24:26.526Z
+status: down
+code: 503
+responseTime: 521
+lastUpdated: 2025-11-27T11:20:23.157Z
 startTime: 2025-11-05T14:19:40.211Z
 generator: Upptime <https://github.com/upptime/upptime>
