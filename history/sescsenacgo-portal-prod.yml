@@ -1,7 +1,7 @@
 url: http://portal-sescsenacgo.smartdocs.com.br/
-status: up
-code: 200
-responseTime: 1068
-lastUpdated: 2026-03-30T23:42:25.633Z
+status: down
+code: 503
+responseTime: 1032
+lastUpdated: 2026-03-31T11:58:51.296Z
 startTime: 2025-11-05T14:19:30.244Z
 generator: Upptime <https://github.com/upptime/upptime>
