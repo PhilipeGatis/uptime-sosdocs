@@ -1,7 +1,7 @@
 url: https://camara-maceio.hml.smartdocs.com.br/
-status: up
-code: 200
-responseTime: 718
-lastUpdated: 2026-04-07T23:46:23.577Z
+status: down
+code: 503
+responseTime: 514
+lastUpdated: 2026-04-08T04:05:09.570Z
 startTime: 2025-11-05T14:19:46.566Z
 generator: Upptime <https://github.com/upptime/upptime>
