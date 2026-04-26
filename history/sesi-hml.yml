@@ -1,7 +1,7 @@
 url: https://sesi.hml.smartdocs.com.br/
-status: up
-code: 200
-responseTime: 706
-lastUpdated: 2026-04-25T23:48:03.918Z
+status: down
+code: 503
+responseTime: 935
+lastUpdated: 2026-04-26T17:28:14.542Z
 startTime: 2025-11-05T14:19:32.017Z
 generator: Upptime <https://github.com/upptime/upptime>
