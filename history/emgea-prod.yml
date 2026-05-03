@@ -1,7 +1,7 @@
 url: https://emgea.smartdocs.com.br/
-status: up
-code: 200
-responseTime: 546
-lastUpdated: 2026-05-02T23:54:08.335Z
+status: down
+code: 503
+responseTime: 527
+lastUpdated: 2026-05-03T09:05:51.723Z
 startTime: 2025-11-05T14:19:44.051Z
 generator: Upptime <https://github.com/upptime/upptime>
