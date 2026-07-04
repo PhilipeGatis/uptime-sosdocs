@@ -1,7 +1,7 @@
 url: https://sesi.smartdocs.com.br/
-status: up
-code: 200
-responseTime: 1866
-lastUpdated: 2026-07-04T00:12:07.968Z
+status: down
+code: 503
+responseTime: 412
+lastUpdated: 2026-07-04T19:38:23.213Z
 startTime: 2025-11-05T14:19:34.488Z
 generator: Upptime <https://github.com/upptime/upptime>
