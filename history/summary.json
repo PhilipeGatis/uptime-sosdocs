@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sosdocs.hml.smartdocs.com.br.ico",
     "slug": "sosdocs-hml",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.62%",
+    "uptimeDay": "86.94%",
+    "uptimeWeek": "98.13%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.62%",
     "time": 872,
     "timeDay": 575,
     "timeWeek": 832,
@@ -26,7 +26,7 @@
       "2026-04-26": 37,
       "2026-05-22": 249,
       "2026-07-10": 95,
-      "2026-08-04": 1
+      "2026-08-04": 188
     }
   },
   {
@@ -63,11 +63,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sosdocs.hml.smartdocs.com.br.ico",
     "slug": "sosdocs-prod",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.62%",
+    "uptimeDay": "86.96%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.62%",
     "time": 278,
     "timeDay": 488,
     "timeWeek": 576,
@@ -84,7 +84,7 @@
       "2026-04-26": 37,
       "2026-05-22": 249,
       "2026-07-10": 95,
-      "2026-08-04": 0
+      "2026-08-04": 188
     }
   },
   {
