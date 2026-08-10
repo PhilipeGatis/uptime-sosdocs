@@ -1,7 +1,7 @@
 url: https://senacdf.hml.smartdocs.com.br/
-status: up
-code: 200
-responseTime: 733
-lastUpdated: 2026-08-09T23:36:51.120Z
+status: down
+code: 503
+responseTime: 548
+lastUpdated: 2026-08-10T08:26:18.070Z
 startTime: 2025-11-05T14:19:18.935Z
 generator: Upptime <https://github.com/upptime/upptime>
